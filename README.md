@@ -1,2 +1,3 @@
 # Instance-Explorer
-Browse thru roblox instances!
+View instance trees and instances' properties!
+Discord: https://discord.gg/UrQuMQbPmY
